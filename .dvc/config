@@ -1,0 +1,4 @@
+[core]
+    autostage = true
+['remote "origin_local"']
+    url = /content/tp_final
